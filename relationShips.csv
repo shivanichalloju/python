@@ -1,0 +1,9 @@
+personId,companyId,designation
+1,1,SoftwareEngineer
+2,3,DataArchintecture
+1,4,Intern
+3,2,Manager
+3,4,softwareEngineer
+4,1,HR
+5,3,DataArchintecture
+6,2,Manager
